@@ -1,0 +1,1081 @@
+{
+  "dashboard": {
+    "program_diikuti": 5,
+    "valid": 4,
+    "invalid": 8,
+    "total_amount": 3,
+    "diikuti": [
+      {
+        "id": 1,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 11",
+        "submitted": 20,
+        "status": "Diikuti",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 2,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 12",
+        "submitted": 10,
+        "status": "Akan Datang",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 3,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 13",
+        "submitted": 40,
+        "status": "Verifikasi HO",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 4,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 14",
+        "submitted": 50,
+        "status": "Konfirmasi Dist",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 5,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 15",
+        "submitted": 70,
+        "status": "Layak Bayar",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 6,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 16",
+        "submitted": 12,
+        "status": "Paid to Dist",
+        "tanggal": "18/02/22"
+      }
+    ],
+    "datang": [
+      {
+        "id": 1,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 11",
+        "submitted": 20,
+        "status": "Diikuti",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 2,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 12",
+        "submitted": 10,
+        "status": "Akan Datang",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 3,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 13",
+        "submitted": 40,
+        "status": "Verifikasi HO",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 4,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 14",
+        "submitted": 50,
+        "status": "Konfirmasi Dist",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 5,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 15",
+        "submitted": 70,
+        "status": "Layak Bayar",
+        "tanggal": "18/02/22"
+      },
+      {
+        "id": 6,
+        "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+        "judul": "Promo PDP Xiaomi Note 16",
+        "submitted": 12,
+        "status": "Paid to Dist",
+        "tanggal": "18/02/22"
+      }
+    ]
+  },
+  "detail_program": [
+    {
+      "id": 1,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Diikuti",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 4,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 5,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 6,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 6,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 7,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 8,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 9,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 10,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Akan Datang",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Verifikasi HO",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Konfirmasi Dist",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Layak Bayar",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "judul": "Promo PDP Xiaomi Note 15",
+      "sub_judul": "",
+      "submitted": 20,
+      "status": "Paid to Dist",
+      "tanggal": "18/02/22",
+      "valid": 28,
+      "total": "10.000.000",
+      "confirmation_letter": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "produk": [
+        {
+          "id": 1,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 2,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        },
+        {
+          "id": 3,
+          "image_hp": "https://images.unsplash.com/photo-1591447337751-c7b95cf704ba?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1488&q=80",
+          "nama_hp": "Xiaomi Redmi Note 11",
+          "color": "All Color",
+          "ram": 4,
+          "rom": 128,
+          "harga_awal": "9.000.000",
+          "harga_promo": "7.000.000"
+        }
+      ],
+      "deskripsi": [
+        {
+          "id": 1,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 2,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 3,
+          "taks": "Lorem ipsum dolor"
+        },
+        {
+          "id": 4,
+          "taks": "Lorem ipsum dolor"
+        }
+      ],
+      "sub": [
+        {
+          "id": 1,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1A"
+        },
+        {
+          "id": 2,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 3,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        },
+        {
+          "id": 4,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Invalid 1B"
+        },
+        {
+          "id": 5,
+          "imei": "870192733919123910011",
+          "tanggal": "18/02/22",
+          "status": "Valid"
+        }
+      ]
+    }
+  ],
+  "program": [
+    {
+      "diikuti": [
+        {
+          "id": 1,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 11",
+          "submitted": 20,
+          "status": "Diikuti",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 2,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 12",
+          "submitted": 10,
+          "status": "Akan Datang",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 3,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 4,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 5,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 6,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 7,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 8,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 9,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 10,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 11,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 11",
+          "submitted": 20,
+          "status": "Diikuti",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 12,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 12",
+          "submitted": 10,
+          "status": "Akan Datang",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 13,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 14,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 15,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 16,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 17,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 18,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 19,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 20,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        }
+      ]
+    },
+    {
+      "datang": [
+        {
+          "id": 1,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 11",
+          "submitted": 20,
+          "status": "Diikuti",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 2,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 12",
+          "submitted": 10,
+          "status": "Akan Datang",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 3,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 4,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 5,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 6,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        }
+      ]
+    }
+  ],
+  "sell_out": [
+    {
+      "diikuti": [
+        {
+          "id": 1,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 11",
+          "submitted": 20,
+          "status": "Diikuti",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 2,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 12",
+          "submitted": 10,
+          "status": "Akan Datang",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 3,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 4,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 5,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 6,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        }
+      ]
+    },
+    {
+      "datang": [
+        {
+          "id": 1,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 11",
+          "submitted": 20,
+          "status": "Diikuti",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 2,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 12",
+          "submitted": 10,
+          "status": "Akan Datang",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 3,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 13",
+          "submitted": 40,
+          "status": "Verifikasi HO",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 4,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 14",
+          "submitted": 50,
+          "status": "Konfirmasi Dist",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 5,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 15",
+          "submitted": 70,
+          "status": "Layak Bayar",
+          "tanggal": "18/02/22"
+        },
+        {
+          "id": 6,
+          "images": "https://images.unsplash.com/photo-1583947215259-38e31be8751f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+          "judul": "Promo PDP Xiaomi Note 16",
+          "submitted": 12,
+          "status": "Paid to Dist",
+          "tanggal": "18/02/22"
+        }
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "images": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80",
+      "email": "ali@xiaomi.com",
+      "password": "123456",
+      "nama_user": "Ali Imron",
+      "nama_dealer": "Xiaomi",
+      "shop": [
+        {
+          "id": 1,
+          "nama_shop": "Xiaomi Shop"
+        },
+        {
+          "id": 2,
+          "nama_shop": "Traditional"
+        }
+      ],
+      "nama_distributor": "Distributor Resmi",
+      "telepon": "081234944838",
+      "alamat": "Jalan Metro Pondok Indah Kav. IV, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta"
+    }
+  ]
+}

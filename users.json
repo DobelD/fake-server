@@ -1,0 +1,21 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "email": "ali@xiaomi.com",
+            "password": "123456",
+            "nama_user": "Ali Imron",
+            "kode_dealer": 1,
+            "nama_dealer": "Xiaomi",
+            "shop": [
+                {
+                    "id": 1,
+                    "nama_shop": "Xiaomi Shop"
+                }
+            ],
+            "nama_distributor": "Distributor Resmi",
+            "telepon": "081234944838",
+            "alamat": "Jalan Metro Pondok Indah Kav. IV, Pd. Pinang, Kec. Kby. Lama, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta"
+        }
+    ]
+}
