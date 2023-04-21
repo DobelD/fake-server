@@ -15,7 +15,7 @@ server.use(bodyParser.json())
 server.use(jsonServer.defaults())
 
 const SECRET_KEY = '123456789'
-const expiresIn = '1h'
+const expiresIn = '12h'
 
 // Create a token from a payload 
 function createToken(payload) {
