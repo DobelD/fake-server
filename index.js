@@ -104,9 +104,24 @@ server.post('/auth/login', (req, res) => {
   // Find the user in the database
   const user = userdb.users.find((user) => user.email === email && user.password === password);
 
+  // Create a new object with user data excluding password
+  const userData = {
+    id: user.id,
+    images: user.images,
+    email: user.email,
+    nama_user: user.nama_user,
+    kode_dealer: user.kode_dealer,
+    nama_dealer: user.nama_dealer,
+    nama_distributor: user.nama_distributor,
+    shop: user.shop,
+    telepon: user.telepon,
+    alamat: user.alamat
+  };
+
   // Send the user object and access token in the response
-  res.status(200).json({ user, access_token });
+  res.status(200).json({ user: userData, access_token });
 });
+
 
 
 server.use(/^(?!\/auth).*$/, (req, res, next) => {
