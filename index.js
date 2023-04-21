@@ -34,7 +34,7 @@ function isAuthenticated({ email, password }) {
 
 // Register New User
 server.post('/auth/register', (req, res) => {
-<<<<<<< HEAD
+
   const { nama_user, email, telepon, kode_dealer, password } = req.body;
 
   fs.readFile('./users.json', 'utf-8', (err, data) => {
@@ -100,57 +100,55 @@ server.post('/auth/register', (req, res) => {
 
 
 
-=======
-  console.log("register endpoint called; request body:");
-  console.log(req.body);
-  const { email, password, nama_user, nama_dealer, images, shop, nama_distributor, telepon, alamat } = req.body;
 
-  if (isAuthenticated({ email, password }) === true) {
+console.log("register endpoint called; request body:");
+console.log(req.body);
+const { email, password, nama_user, nama_dealer, images, shop, nama_distributor, telepon, alamat } = req.body;
+
+if (isAuthenticated({ email, password }) === true) {
+  const status = 401;
+  const message = 'Email and Password already exist';
+  res.status(status).json({ status, message });
+  return;
+}
+
+fs.readFile("./users.json", (err, data) => {
+  if (err) {
     const status = 401;
-    const message = 'Email and Password already exist';
+    const message = err;
     res.status(status).json({ status, message });
     return;
   }
 
-  fs.readFile("./users.json", (err, data) => {
+  // Get current users data
+  var data = JSON.parse(data.toString());
+
+  // Get the id of last users
+  var last_item_id = data.users[data.users.length - 1].id;
+
+  // Add new user
+  data.users.push({ id: last_item_id + 1, email: email, password: password, nama_user: nama_user, nama_dealer: nama_dealer, images: images, shop: shop, nama_distributor: nama_distributor, telepon: telepon, alamat: alamat });
+
+  // Write to file
+  var writeData = fs.writeFile("./users.json", JSON.stringify(data), (err, result) => {
     if (err) {
       const status = 401;
       const message = err;
       res.status(status).json({ status, message });
       return;
     }
-
-    // Get current users data
-    var data = JSON.parse(data.toString());
-
-    // Get the id of last user
-    var last_item_id = data.users[data.users.length - 1].id;
-
-    // Add new user
-    data.users.push({ id: last_item_id + 1, email: email, password: password, nama_user: nama_user, nama_dealer: nama_dealer, images: images, shop: shop, nama_distributor: nama_distributor, telepon: telepon, alamat: alamat });
-
-    // Write to file
-    var writeData = fs.writeFile("./users.json", JSON.stringify(data), (err, result) => {
-      if (err) {
-        const status = 401;
-        const message = err;
-        res.status(status).json({ status, message });
-        return;
-      }
-    });
-
-    // Create token for new user
-    const access_token = createToken({ email, password });
-
-    // Find the user that was just added to the database
-    const user = data.users.find((user) => user.email === email && user.password === password);
-
-    // Send the user object and access token in the response
-    res.status(200).json({ user, access_token });
   });
+
+  // Create token for new user
+  const access_token = createToken({ email, password });
+
+  // Find the user that was just added to the database
+  const user = data.users.find((user) => user.email === email && user.password === password);
+
+  // Send the user object and access token in the response
+  res.status(200).json({ user, access_token });
 });
 
->>>>>>> 59c639c (lasts)
 // Login to one of the users from ./users.json
 server.post('/auth/login', (req, res) => {
   console.log("login endpoint called; request body:");
